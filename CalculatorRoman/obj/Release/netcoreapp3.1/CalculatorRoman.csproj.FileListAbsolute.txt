@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\bin\Release\netcoreapp3.1\CalculatorRoman.exe
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\bin\Release\netcoreapp3.1\CalculatorRoman.deps.json
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\bin\Release\netcoreapp3.1\CalculatorRoman.runtimeconfig.json
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\bin\Release\netcoreapp3.1\CalculatorRoman.runtimeconfig.dev.json
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\bin\Release\netcoreapp3.1\CalculatorRoman.dll
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\bin\Release\netcoreapp3.1\CalculatorRoman.pdb
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\obj\Release\netcoreapp3.1\CalculatorRoman.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\obj\Release\netcoreapp3.1\CalculatorRoman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\obj\Release\netcoreapp3.1\CalculatorRoman.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\obj\Release\netcoreapp3.1\CalculatorRoman.AssemblyInfo.cs
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\obj\Release\netcoreapp3.1\CalculatorRoman.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\obj\Release\netcoreapp3.1\CalculatorRoman.dll
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\obj\Release\netcoreapp3.1\CalculatorRoman.pdb
+C:\Users\user\Desktop\Junior\C#\repos\CalculatorRoman\CalculatorRoman\obj\Release\netcoreapp3.1\CalculatorRoman.genruntimeconfig.cache
